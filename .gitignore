@@ -1,0 +1,9 @@
+﻿
+.env
+fichier.env
+.venv/
+__pycache__/
+*.pyc
+*.old
+rfm_results.csv
+
